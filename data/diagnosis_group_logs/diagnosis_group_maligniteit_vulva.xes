@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<date key="End date" value="2006-01-11T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="252260.0" />
+		<date key="Start date" value="2005-01-16T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000121" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="91.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="verlosk.-gynaec.   jaarkaart kosten-out" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="10307" />
+			<date key="time:timestamp" value="2005-03-16T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-06-14T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-06-14T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-12-13T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-24T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="238446.0" />
+		<date key="Start date" value="2005-01-24T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000235" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="58.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-05-24T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-05-24T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-25T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="238885.0" />
+		<date key="Start date" value="2005-01-25T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000240" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="75.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-05-25T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-05-25T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-28T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="303470.0" />
+		<date key="Start date" value="2005-01-28T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000348" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="85.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="verlosk.-gynaec.   jaarkaart kosten-out" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="10307" />
+			<date key="time:timestamp" value="2005-07-28T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-06T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="303392.0" />
+		<date key="Start date" value="2005-01-06T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000392" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="80.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="10107" />
+			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-09-05T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2005-01-21T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="314026.0" />
+		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000418" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="79.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-09-20T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-05T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="315074.0" />
+		<date key="Start date" value="2005-01-15T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000423" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="80.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-09-21T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-09-21T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-04-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-07T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="333845.0" />
+		<date key="Start date" value="2005-01-07T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000459" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="86.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-04T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="364278.0" />
+		<date key="Start date" value="2005-01-04T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000513" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="65.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2005-11-30T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2005-11-30T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-11-01T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-15T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="407057.0" />
+		<date key="Start date" value="2005-01-15T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000588" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="58.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-02-07T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-02-07T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-08-15T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-15T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="418691.0" />
+		<date key="Start date" value="2005-01-15T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000604" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="92.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-02-15T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-02-15T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2007-01-28T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="445411.0" />
+		<date key="Start date" value="2006-01-28T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000659" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="86.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-03-28T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-03-28T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-24T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="469770.0" />
+		<date key="Start date" value="2005-01-24T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000693" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="68.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-05-03T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-05-03T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-11-01T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-16T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="483992.0" />
+		<date key="Start date" value="2005-01-16T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000719" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="80.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-05-23T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-05-23T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2006-01-19T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="maligniteit vulva" />
+		<float key="Diagnosis Treatment Combination ID" value="522992.0" />
+		<date key="Start date" value="2005-01-12T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M11" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000775" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="74.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="411100" />
+			<date key="time:timestamp" value="2006-07-18T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2006-07-18T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Senior" />
+			<string key="diagnosis_group" value="maligniteit vulva" />
+		</event>
+	</trace>
+</log>

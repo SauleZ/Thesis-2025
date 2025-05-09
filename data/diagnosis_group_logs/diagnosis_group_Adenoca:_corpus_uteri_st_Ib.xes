@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<date key="End date" value="2007-01-12T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="Adenoca: corpus uteri st Ib" />
+		<float key="Diagnosis Treatment Combination ID" value="847075.0" />
+		<date key="Start date" value="2007-01-04T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M14" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000914" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="56.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="Producer code" value="CRPO" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370000" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="Producer code" value="CRPO" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370000" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="Producer code" value="CRPO" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370000" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="bilirubine -geconjugeerd" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370401" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="bilirubine - totaal" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370401C" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="glucose" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370402" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="ureum" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370403" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="hemoglobine foto-elektrisch" />
+			<string key="Producer code" value="HAEM" />
+			<string key="Section" value="Section 4" />
+			<float key="Activity code" value="370407.0" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="creatinine" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370419" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="alkalische fosfatase -kinetisch-" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370423" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="natrium vlamfotometrisch" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370442" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="kalium potentiometrisch" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370443" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="sgot - asat kinetisch" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370488E" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="sgpt - alat kinetisch" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370488G" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="melkzuurdehydrogenase -ldh- kinetisch" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370488J" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="bloedgroep abo en rhesusfactor" />
+			<string key="Producer code" value="BLOB" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370604" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="rhesusfactor d - centrifugeermethode - e" />
+			<string key="Producer code" value="BLOB" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="370606" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="leukocyten tellen elektronisch" />
+			<string key="Producer code" value="HAEM" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370712B" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="trombocyten tellen - elektronisch" />
+			<string key="Producer code" value="HAEM" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="370715A" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="gammaglutamyltranspeptidase" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="372417" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="cea - tumormarker mbv meia" />
+			<string key="Producer code" value="CHE1" />
+			<string key="Section" value="Section 4" />
+			<float key="Activity code" value="376400.0" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="calcium" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="377498A" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="albumine" />
+			<string key="Producer code" value="CHE2" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="378453A" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="screening antistoffen erytrocyten" />
+			<string key="Producer code" value="BLOB" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="378607" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="ca-125 mbv meia" />
+			<string key="Producer code" value="CHE1" />
+			<string key="Section" value="Section 4" />
+			<string key="Activity code" value="378619A" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="General Lab Clinical Chemistry" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="86" />
+			<string key="concept:name" value="ordertarief" />
+			<string key="Producer code" value="CRLA" />
+			<string key="Section" value="Section 4" />
+			<int key="Activity code" value="379999" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="Radiology" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="62" />
+			<string key="concept:name" value="thorax" />
+			<string key="Producer code" value="SRA1" />
+			<string key="Section" value="Section 5" />
+			<int key="Activity code" value="386002" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="410100" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2007-03-04T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="Radiology" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="62" />
+			<string key="concept:name" value="ct abdomen" />
+			<string key="Producer code" value="SRA6" />
+			<string key="Section" value="Section 5" />
+			<string key="Activity code" value="387042A" />
+			<date key="time:timestamp" value="2007-03-06T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+	</trace>
+	<trace>
+		<date key="End date" value="2007-01-12T22:45:36+00:00" />
+		<float key="Treatment code:3" value="nan" />
+		<float key="Age:3" value="nan" />
+		<float key="Treatment code:2" value="nan" />
+		<float key="Diagnosis code:3" value="nan" />
+		<float key="Diagnosis code:2" value="nan" />
+		<float key="Treatment code:1" value="nan" />
+		<float key="Specialism code" value="7.0" />
+		<float key="Diagnosis code:1" value="nan" />
+		<float key="Treatment code" value="101.0" />
+		<float key="Age:1" value="nan" />
+		<float key="Diagnosis:3" value="nan" />
+		<float key="Age:2" value="nan" />
+		<float key="Diagnosis:2" value="nan" />
+		<float key="Diagnosis:1" value="nan" />
+		<string key="Diagnosis" value="Adenoca: corpus uteri st Ib" />
+		<float key="Diagnosis Treatment Combination ID" value="847078.0" />
+		<date key="Start date" value="2007-01-27T23:14:24+00:00" />
+		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
+		<string key="Diagnosis code" value="M14" />
+		<float key="Diagnosis Treatment Combination ID:1" value="nan" />
+		<string key="concept:name" value="00000931" />
+		<string key="Start date:1" value="NaT" />
+		<float key="Specialism code:3" value="nan" />
+		<string key="End date:1" value="NaT" />
+		<string key="End date:2" value="NaT" />
+		<float key="Specialism code:1" value="nan" />
+		<string key="Start date:3" value="NaT" />
+		<float key="Specialism code:2" value="nan" />
+		<string key="Start date:2" value="NaT" />
+		<float key="Age" value="54.0" />
+		<string key="End date:3" value="NaT" />
+		<float key="Diagnosis code:4" value="nan" />
+		<float key="Treatment code:4" value="nan" />
+		<float key="Age:4" value="nan" />
+		<float key="Diagnosis:4" value="nan" />
+		<float key="Diagnosis Treatment Combination ID:4" value="nan" />
+		<float key="Specialism code:4" value="nan" />
+		<string key="Start date:4" value="NaT" />
+		<string key="End date:4" value="NaT" />
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="410100" />
+			<date key="time:timestamp" value="2007-03-27T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+		<event>
+			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
+			<int key="Number of executions" value="1" />
+			<int key="Specialism code" value="7" />
+			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="Producer code" value="SGNA" />
+			<string key="Section" value="Section 2" />
+			<int key="Activity code" value="419100" />
+			<date key="time:timestamp" value="2007-03-27T23:00:00+00:00" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="age_group" value="Adult" />
+			<string key="diagnosis_group" value="Adenoca: corpus uteri st Ib" />
+		</event>
+	</trace>
+</log>
