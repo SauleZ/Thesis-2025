@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
-	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
-	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
 	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
-		<date key="End date" value="2005-01-02T22:45:36+00:00" />
+		<date key="End date" value="2005-01-02T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -23,7 +23,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="546368.0" />
-		<date key="Start date" value="2005-01-12T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-13T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -51,11 +51,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-02-01T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-02T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -64,18 +64,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-02-01T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-02T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-08T22:45:36+00:00" />
+		<date key="End date" value="2006-01-08T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -92,7 +92,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vagina" />
 		<float key="Diagnosis Treatment Combination ID" value="174522.0" />
-		<date key="Start date" value="2005-01-08T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-09T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M12" />
@@ -120,11 +120,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.Short card cost-out" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -133,11 +133,11 @@
 			<string key="org:group" value="Pathology" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="88" />
-			<string key="concept:name" value="coupe ter inzage" />
+			<string key="concept:name" value="coupe for inspection" />
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355111" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -146,11 +146,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -159,18 +159,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-29T22:45:36+00:00" />
+		<date key="End date" value="2006-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -187,7 +187,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="203139.0" />
-		<date key="Start date" value="2005-01-29T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-30T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -215,11 +215,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.Short card cost-out" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -228,11 +228,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -241,18 +241,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-22T22:45:36+00:00" />
+		<date key="End date" value="2005-01-22T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -269,7 +269,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="238374.0" />
-		<date key="Start date" value="2005-01-24T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-25T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -297,11 +297,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.Short card cost-out" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-05-24T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-05-25T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -310,11 +310,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-05-24T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-05-25T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -323,18 +323,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-05-24T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-05-25T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-10T22:45:36+00:00" />
+		<date key="End date" value="2005-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -351,7 +351,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="415367.0" />
-		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -379,11 +379,11 @@
 			<string key="org:group" value="Nursing ward" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.Short card cost-out" />
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -392,11 +392,11 @@
 			<string key="org:group" value="Nursing ward" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -405,18 +405,18 @@
 			<string key="org:group" value="Nursing ward" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-29T22:45:36+00:00" />
+		<date key="End date" value="2005-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -433,7 +433,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="255001.0" />
-		<date key="Start date" value="2005-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -461,11 +461,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-06-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -474,18 +474,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-06-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-14T22:45:36+00:00" />
+		<date key="End date" value="2005-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -502,7 +502,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="328941.0" />
-		<date key="Start date" value="2005-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -530,11 +530,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec.   jaarkaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.annual card cost-out" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10307" />
-			<date key="time:timestamp" value="2005-08-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-08-09T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -543,11 +543,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -556,18 +556,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-29T22:45:36+00:00" />
+		<date key="End date" value="2006-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -584,7 +584,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="307272.0" />
-		<date key="Start date" value="2005-01-29T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-30T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -612,11 +612,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -625,18 +625,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-11T22:45:36+00:00" />
+		<date key="End date" value="2006-01-11T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -653,7 +653,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit myometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="306982.0" />
-		<date key="Start date" value="2005-01-11T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-12T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M15" />
@@ -681,11 +681,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="verlosk.-gynaec. korte kaart kosten-out" />
+			<string key="concept:name" value="Verlosk.-Gynaec.Short card cost-out" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-09-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -694,11 +694,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -707,11 +707,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -720,18 +720,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-06-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-27T22:45:36+00:00" />
+		<date key="End date" value="2006-01-27T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -748,7 +748,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="345322.0" />
-		<date key="Start date" value="2005-01-27T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-28T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -776,18 +776,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-11-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-07T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-10T22:45:36+00:00" />
+		<date key="End date" value="2005-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -804,7 +804,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="347896.0" />
-		<date key="Start date" value="2005-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -832,11 +832,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-11-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -845,18 +845,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-11-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-31T22:45:36+00:00" />
+		<date key="End date" value="2006-01-31T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -873,7 +873,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="387461.0" />
-		<date key="Start date" value="2006-01-03T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-04T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -901,11 +901,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-01-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-01-04T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -914,18 +914,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-01-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-01-04T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-06T22:45:36+00:00" />
+		<date key="End date" value="2006-01-06T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -942,7 +942,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="429760.0" />
-		<date key="Start date" value="2006-01-05T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-06T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -970,11 +970,11 @@
 			<string key="org:group" value="Pathology" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="88" />
-			<string key="concept:name" value="cytologisch onderzoek - ectocervix -" />
+			<string key="concept:name" value="Cytological examination - Ectocervix -" />
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355201" />
-			<date key="time:timestamp" value="2006-03-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-06T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -983,11 +983,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-03-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-06T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -996,18 +996,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-03-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-06T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-22T22:45:36+00:00" />
+		<date key="End date" value="2006-01-22T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1024,7 +1024,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="440889.0" />
-		<date key="Start date" value="2006-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -1052,11 +1052,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-03-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1065,18 +1065,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-03-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-18T22:45:36+00:00" />
+		<date key="End date" value="2007-01-18T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1093,7 +1093,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="459382.0" />
-		<date key="Start date" value="2006-01-18T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-19T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -1121,11 +1121,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-04-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1134,11 +1134,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-04-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1147,18 +1147,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-05-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-04T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-28T22:45:36+00:00" />
+		<date key="End date" value="2006-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1175,7 +1175,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="466788.0" />
-		<date key="Start date" value="2006-01-27T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-28T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -1203,11 +1203,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGAL" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-04-27T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-28T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1216,18 +1216,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGAL" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-04-27T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-28T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-14T22:45:36+00:00" />
+		<date key="End date" value="2006-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1244,7 +1244,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit myometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="472013.0" />
-		<date key="Start date" value="2006-01-07T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-08T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M15" />
@@ -1272,11 +1272,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-05-07T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-08T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1285,11 +1285,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-07T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-08T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1298,18 +1298,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-06-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-09T22:45:36+00:00" />
+		<date key="End date" value="2007-01-09T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1326,7 +1326,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st Ib" />
 		<float key="Diagnosis Treatment Combination ID" value="474058.0" />
-		<date key="Start date" value="2006-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1354,11 +1354,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-05-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1367,18 +1367,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-17T22:45:36+00:00" />
+		<date key="End date" value="2007-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1395,7 +1395,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligne nieuwvormingen vulva (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="480414.0" />
-		<date key="Start date" value="2006-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1423,11 +1423,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1436,18 +1436,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-21T22:45:36+00:00" />
+		<date key="End date" value="2007-01-21T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1464,7 +1464,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwvormingen ovarium (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="482397.0" />
-		<date key="Start date" value="2006-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -1492,11 +1492,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1505,18 +1505,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-07T22:45:36+00:00" />
+		<date key="End date" value="2007-01-07T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1533,7 +1533,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plav.celcarc. vulva: (st onbekend)" />
 		<float key="Diagnosis Treatment Combination ID" value="492427.0" />
-		<date key="Start date" value="2006-01-06T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-07T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1561,11 +1561,11 @@
 			<string key="org:group" value="Pathology" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="88" />
-			<string key="concept:name" value="cytologisch onderzoek - ectocervix -" />
+			<string key="concept:name" value="Cytological examination - Ectocervix -" />
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355201" />
-			<date key="time:timestamp" value="2006-06-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1574,11 +1574,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-06-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1587,18 +1587,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-06-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-29T22:45:36+00:00" />
+		<date key="End date" value="2006-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1615,7 +1615,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="509285.0" />
-		<date key="Start date" value="2005-01-29T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-30T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -1643,11 +1643,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-06-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1656,11 +1656,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1669,18 +1669,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-02T22:45:36+00:00" />
+		<date key="End date" value="2007-01-02T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1697,7 +1697,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st IIIb" />
 		<float key="Diagnosis Treatment Combination ID" value="511502.0" />
-		<date key="Start date" value="2006-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1725,11 +1725,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-07-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-03T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1738,18 +1738,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-07-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-03T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-11T22:45:36+00:00" />
+		<date key="End date" value="2007-01-11T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1766,7 +1766,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st Ib" />
 		<float key="Diagnosis Treatment Combination ID" value="518403.0" />
-		<date key="Start date" value="2006-01-11T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-12T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1794,11 +1794,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-07-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1807,18 +1807,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-07-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-26T22:45:36+00:00" />
+		<date key="End date" value="2007-01-26T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1835,7 +1835,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwv. cervix uteri (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="528747.0" />
-		<date key="Start date" value="2006-01-26T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-27T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1863,11 +1863,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-07-26T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-27T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1876,11 +1876,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-07-26T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-27T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1889,18 +1889,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-08-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-03T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-06T22:45:36+00:00" />
+		<date key="End date" value="2007-01-06T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1917,7 +1917,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ia" />
 		<float key="Diagnosis Treatment Combination ID" value="534265.0" />
-		<date key="Start date" value="2006-01-06T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-07T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -1945,11 +1945,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-08-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1958,18 +1958,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-16T22:45:36+00:00" />
+		<date key="End date" value="2007-01-16T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1986,7 +1986,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Recidieven corpus maligniteit uteri (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="847065.0" />
-		<date key="Start date" value="2006-01-16T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-17T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2014,11 +2014,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-08-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-17T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2027,11 +2027,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-17T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2040,18 +2040,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-08-23T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-24T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-17T22:45:36+00:00" />
+		<date key="End date" value="2006-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2068,7 +2068,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="543050.0" />
-		<date key="Start date" value="2005-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2096,11 +2096,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-08-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2109,18 +2109,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-30T22:45:36+00:00" />
+		<date key="End date" value="2006-01-30T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2137,7 +2137,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="867941.0" />
-		<date key="Start date" value="2004-12-31T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-01T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<int key="Diagnosis code" value="106" />
@@ -2165,11 +2165,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-08-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2178,11 +2178,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2191,11 +2191,11 @@
 			<string key="org:group" value="Radiotherapy" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="61" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-03-07T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-08T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2204,18 +2204,18 @@
 			<string key="org:group" value="Radiotherapy" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="61" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-03-07T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-08T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-05T22:45:36+00:00" />
+		<date key="End date" value="2007-01-05T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2232,7 +2232,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Niet epitheliale mal. nieuwv. ovarium (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="553653.0" />
-		<date key="Start date" value="2006-01-05T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-06T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -2260,11 +2260,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-09-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-09-06T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2273,18 +2273,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-09-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-09-06T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-28T22:45:36+00:00" />
+		<date key="End date" value="2007-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2301,7 +2301,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st IIIa" />
 		<float key="Diagnosis Treatment Combination ID" value="613278.0" />
-		<date key="Start date" value="2006-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2329,11 +2329,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-11-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-29T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2342,18 +2342,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-11-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-29T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-06T22:45:36+00:00" />
+		<date key="End date" value="2007-01-06T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2370,7 +2370,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwv. cervix uteri (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="618714.0" />
-		<date key="Start date" value="2006-01-06T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-07T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2398,11 +2398,11 @@
 			<string key="org:group" value="Pathology" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="88" />
-			<string key="concept:name" value="cytologisch onderzoek - vagina -" />
+			<string key="concept:name" value="Cytological examination - Vagina -" />
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355427" />
-			<date key="time:timestamp" value="2006-12-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-07T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2411,11 +2411,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-12-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-07T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2424,11 +2424,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-12-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-07T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2437,18 +2437,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-20T22:45:36+00:00" />
+		<date key="End date" value="2006-01-20T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2465,7 +2465,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="627622.0" />
-		<date key="Start date" value="2006-01-19T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-20T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -2493,11 +2493,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-12-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-20T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2506,18 +2506,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-12-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-20T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-14T22:45:36+00:00" />
+		<date key="End date" value="2007-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2534,7 +2534,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwvormingen darm (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="826874.0" />
-		<date key="Start date" value="2007-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2562,18 +2562,18 @@
 			<string key="org:group" value="Operating rooms" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vrw.gesl.org- adnex-extirpatie dmv lapar" />
+			<string key="concept:name" value="vrw.bed.org- ADNEX-EXTIRPATIE DMV LAPAR" />
 			<string key="Producer code" value="OKU1" />
 			<string key="Section" value="Section 3" />
 			<int key="Activity code" value="336930" />
-			<date key="time:timestamp" value="2007-03-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-14T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2008-01-17T22:45:36+00:00" />
+		<date key="End date" value="2008-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2590,7 +2590,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwv. cervix uteri (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="684719.0" />
-		<date key="Start date" value="2007-01-18T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-19T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2618,11 +2618,11 @@
 			<string key="org:group" value="Pathology" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="88" />
-			<string key="concept:name" value="cytologisch onderzoek - vagina -" />
+			<string key="concept:name" value="Cytological examination - Vagina -" />
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355427" />
-			<date key="time:timestamp" value="2007-03-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2631,11 +2631,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-03-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2644,11 +2644,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-03-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2657,11 +2657,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2007-04-11T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-04-12T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2685,7 +2685,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="687121.0" />
-		<date key="Start date" value="2007-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2713,11 +2713,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-03-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2726,18 +2726,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-03-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-21T22:45:36+00:00" />
+		<date key="End date" value="2007-01-21T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2754,7 +2754,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenocarcinoom cervix (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="711316.0" />
-		<date key="Start date" value="2007-01-16T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-17T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2782,11 +2782,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGAL" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2007-04-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-04-17T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2795,11 +2795,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGAL" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-05-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-05-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2808,18 +2808,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGAL" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-05-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-05-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-18T22:45:36+00:00" />
+		<date key="End date" value="2007-01-18T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2836,7 +2836,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Sereus adenoca: ovarium st IIIc" />
 		<float key="Diagnosis Treatment Combination ID" value="763898.0" />
-		<date key="Start date" value="2007-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -2864,11 +2864,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-07-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-07-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2877,18 +2877,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-07-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-07-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-17T22:45:36+00:00" />
+		<date key="End date" value="2007-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2905,7 +2905,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st IIa" />
 		<float key="Diagnosis Treatment Combination ID" value="781458.0" />
-		<date key="Start date" value="2007-01-15T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-16T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2933,11 +2933,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-08-15T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-08-16T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2946,18 +2946,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-08-15T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-08-16T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-19T22:45:36+00:00" />
+		<date key="End date" value="2007-01-19T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2974,7 +2974,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Recidieven (borderline) mal. ovarium (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="852793.0" />
-		<date key="Start date" value="2007-01-18T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-19T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3002,11 +3002,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-11-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3015,18 +3015,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-11-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-21T22:45:36+00:00" />
+		<date key="End date" value="2007-01-21T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3043,7 +3043,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Sereus adenoca: ovarium st IIa" />
 		<float key="Diagnosis Treatment Combination ID" value="854953.0" />
-		<date key="Start date" value="2007-01-20T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-21T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3071,11 +3071,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-11-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3084,18 +3084,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-11-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-04T22:45:36+00:00" />
+		<date key="End date" value="2007-01-04T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3112,7 +3112,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Sereus adenoca: ovarium st IV" />
 		<float key="Diagnosis Treatment Combination ID" value="864960.0" />
-		<date key="Start date" value="2007-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3140,11 +3140,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-12-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-03T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3153,11 +3153,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-12-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-03T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3181,7 +3181,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ic" />
 		<float key="Diagnosis Treatment Combination ID" value="885289.0" />
-		<date key="Start date" value="2007-01-20T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-21T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3209,11 +3209,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="concept:name" value="Acquisition of Laboratory Examination" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3222,11 +3222,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="concept:name" value="Acquisition of Laboratory Examination" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3235,11 +3235,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="bilirubine -geconjugeerd" />
+			<string key="concept:name" value="Bilirubin -Conjuged" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370401" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3248,11 +3248,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="bilirubine - totaal" />
+			<string key="concept:name" value="Bilirubin - Total" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370401C" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3265,7 +3265,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370402" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3274,11 +3274,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ureum" />
+			<string key="concept:name" value="urea" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370403" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3287,11 +3287,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="hemoglobine foto-elektrisch" />
+			<string key="concept:name" value="hemoglobin photoelectric" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="370407.0" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3304,7 +3304,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370419" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3313,11 +3313,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="alkalische fosfatase -kinetisch-" />
+			<string key="concept:name" value="alkaline fosfatase -kinetic-" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370423" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3326,11 +3326,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="natrium vlamfotometrisch" />
+			<string key="concept:name" value="sodium flame photoetric" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370442" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3339,11 +3339,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="kalium potentiometrisch" />
+			<string key="concept:name" value="potassium potentiometric" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370443" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3356,7 +3356,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488E" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3365,11 +3365,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="sgpt - alat kinetisch" />
+			<string key="concept:name" value="SGPT - Kineticch tool" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488G" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3378,11 +3378,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="melkzuurdehydrogenase -ldh- kinetisch" />
+			<string key="concept:name" value="lactic acid dehydrogenase -ldh -kinetic" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488J" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3391,11 +3391,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="differentiele telling automatisch" />
+			<string key="concept:name" value="Differential count automatically" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370701" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3404,11 +3404,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="leukocyten tellen elektronisch" />
+			<string key="concept:name" value="leukocytes count electronically" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370712B" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3417,11 +3417,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="trombocyten tellen - elektronisch" />
+			<string key="concept:name" value="Counting thrombocytes - Electronic" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370715A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3434,7 +3434,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="372417" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3443,11 +3443,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="cea - tumormarker mbv meia" />
+			<string key="concept:name" value="the one - Tumorarker MBV Meia" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="376400.0" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3460,7 +3460,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="377498A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3469,11 +3469,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="albumine" />
+			<string key="concept:name" value="albumin" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378453A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3482,11 +3482,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ca-125 mbv meia" />
+			<string key="concept:name" value="CA-125 MBV HALF" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378619A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3495,11 +3495,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ordertarief" />
+			<string key="concept:name" value="rank" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="379999" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3512,7 +3512,7 @@
 			<string key="Producer code" value="SRA1" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="386002" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3521,11 +3521,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3534,11 +3534,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3562,7 +3562,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Metastase cervix prim. maligniteit elders" />
 		<float key="Diagnosis Treatment Combination ID" value="900806.0" />
-		<date key="Start date" value="2008-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -3590,11 +3590,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="vervolgconsult poliklinisch" />
+			<string key="concept:name" value="follow -up consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2008-01-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-10T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3603,11 +3603,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-01-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-10T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3616,11 +3616,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="telefonisch consult" />
+			<string key="concept:name" value="telephone consultation" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2008-01-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-17T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3644,7 +3644,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ic" />
 		<float key="Diagnosis Treatment Combination ID" value="901594.0" />
-		<date key="Start date" value="2008-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3672,11 +3672,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2008-01-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-18T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3685,11 +3685,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-01-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-18T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3713,7 +3713,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Sereus adenoca: ovarium st IIIc" />
 		<float key="Diagnosis Treatment Combination ID" value="925133.0" />
-		<date key="Start date" value="2008-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3741,11 +3741,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="concept:name" value="Acquisition of Laboratory Examination" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3754,11 +3754,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="aanname laboratoriumonderzoek" />
+			<string key="concept:name" value="Acquisition of Laboratory Examination" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3767,11 +3767,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="bilirubine -geconjugeerd" />
+			<string key="concept:name" value="Bilirubin -Conjuged" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370401" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3780,11 +3780,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="bilirubine - totaal" />
+			<string key="concept:name" value="Bilirubin - Total" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370401C" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3797,7 +3797,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370402" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3806,11 +3806,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ureum" />
+			<string key="concept:name" value="urea" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370403" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3819,11 +3819,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="hemoglobine foto-elektrisch" />
+			<string key="concept:name" value="hemoglobin photoelectric" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="370407.0" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3836,7 +3836,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370419" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3845,11 +3845,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="alkalische fosfatase -kinetisch-" />
+			<string key="concept:name" value="alkaline fosfatase -kinetic-" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370423" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3858,11 +3858,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="natrium vlamfotometrisch" />
+			<string key="concept:name" value="sodium flame photoetric" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370442" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3871,11 +3871,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="kalium potentiometrisch" />
+			<string key="concept:name" value="potassium potentiometric" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370443" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3888,7 +3888,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488E" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3897,11 +3897,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="sgpt - alat kinetisch" />
+			<string key="concept:name" value="SGPT - Kineticch tool" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488G" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3910,11 +3910,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="melkzuurdehydrogenase -ldh- kinetisch" />
+			<string key="concept:name" value="lactic acid dehydrogenase -ldh -kinetic" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488J" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3923,11 +3923,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="differentiele telling automatisch" />
+			<string key="concept:name" value="Differential count automatically" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370701" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3936,11 +3936,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="leukocyten tellen elektronisch" />
+			<string key="concept:name" value="leukocytes count electronically" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370712B" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3949,11 +3949,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="trombocyten tellen - elektronisch" />
+			<string key="concept:name" value="Counting thrombocytes - Electronic" />
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370715A" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3966,7 +3966,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="372417" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3975,11 +3975,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="cea - tumormarker mbv meia" />
+			<string key="concept:name" value="the one - Tumorarker MBV Meia" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="376400.0" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3992,7 +3992,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="377498A" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4001,11 +4001,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="albumine" />
+			<string key="concept:name" value="albumin" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378453A" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4014,11 +4014,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ca-125 mbv meia" />
+			<string key="concept:name" value="CA-125 MBV HALF" />
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378619A" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4027,11 +4027,11 @@
 			<string key="org:group" value="General Lab Clinical Chemistry" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="86" />
-			<string key="concept:name" value="ordertarief" />
+			<string key="concept:name" value="rank" />
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="379999" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4044,7 +4044,7 @@
 			<string key="Producer code" value="SRA1" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="386002" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4053,11 +4053,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4066,18 +4066,18 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-02-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-02-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2008-01-20T22:45:36+00:00" />
+		<date key="End date" value="2008-01-20T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -4094,7 +4094,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plav.celcarc. vulva: st I" />
 		<float key="Diagnosis Treatment Combination ID" value="932096.0" />
-		<date key="Start date" value="2008-01-04T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-05T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -4122,11 +4122,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="1e consult poliklinisch" />
+			<string key="concept:name" value="1st consultation outpatient" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2008-03-04T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-03-05T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -4135,11 +4135,11 @@
 			<string key="org:group" value="Obstetrics &amp; Gynaecology clinic" />
 			<int key="Number of executions" value="1" />
 			<int key="Specialism code" value="7" />
-			<string key="concept:name" value="administratief tarief       - eerste pol" />
+			<string key="concept:name" value="Administrative rate - First Pol" />
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-03-04T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-03-05T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Adult" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
