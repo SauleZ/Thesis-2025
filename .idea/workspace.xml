@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b189bf-53dd-49a1-901e-162637d16a7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Thesis-2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/age_group_logs/age_group_Adult.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/age_group_logs/age_group_Adult.xes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/age_group_logs/age_group_Senior.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/age_group_logs/age_group_Senior.xes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/age_group_logs/age_group_Unknown.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/age_group_logs/age_group_Unknown.xes" afterDir="false" />
@@ -21,8 +16,6 @@
       <change beforePath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_Unknown.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_Unknown.xes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_maligniteit_cervix.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_maligniteit_cervix.xes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_maligniteit_vulva.xes" beforeDir="false" afterPath="$PROJECT_DIR$/data/diagnosis_group_logs/diagnosis_group_maligniteit_vulva.xes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/process_model_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heuristic_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/heuristic_model.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hospital_logs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hospital_logs.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/age_group_models/age_group_Adult.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/age_group_models/age_group_Adult.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/age_group_models/age_group_Senior.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/age_group_models/age_group_Senior.png" afterDir="false" />
@@ -44,6 +37,11 @@
     <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="backup" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -94,6 +92,9 @@
       <workItem from="1746858305836" duration="11260000" />
       <workItem from="1747980722500" duration="14691000" />
       <workItem from="1748763230791" duration="23025000" />
+      <workItem from="1749298851576" duration="33921000" />
+      <workItem from="1750077012026" duration="4313000" />
+      <workItem from="1750082164329" duration="3614000" />
     </task>
     <servers />
   </component>

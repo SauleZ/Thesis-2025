@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
-	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
-	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
 	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
-		<date key="End date" value="2005-01-02T22:45:36+00:00" />
+		<date key="End date" value="2005-01-02T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -23,7 +23,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="546368.0" />
-		<date key="Start date" value="2005-01-12T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-13T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -55,7 +55,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-02-01T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-02T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -68,14 +68,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-02-01T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-02T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-08T22:45:36+00:00" />
+		<date key="End date" value="2006-01-08T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -92,7 +92,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vagina" />
 		<float key="Diagnosis Treatment Combination ID" value="174522.0" />
-		<date key="Start date" value="2005-01-08T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-09T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M12" />
@@ -124,7 +124,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -137,7 +137,7 @@
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355111" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -150,7 +150,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -163,14 +163,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-02-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-02-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-09T22:45:36+00:00" />
+		<date key="End date" value="2007-01-09T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -187,7 +187,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="792717.0" />
-		<date key="Start date" value="2005-01-08T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-09T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<int key="Diagnosis code" value="106" />
@@ -219,7 +219,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-03-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -232,7 +232,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-03-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -245,7 +245,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-03-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -258,14 +258,14 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-08-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-11T22:45:36+00:00" />
+		<date key="End date" value="2006-01-11T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -282,7 +282,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="252260.0" />
-		<date key="Start date" value="2005-01-16T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-17T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -314,7 +314,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10307" />
-			<date key="time:timestamp" value="2005-03-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-17T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -327,7 +327,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-06-14T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-15T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -340,7 +340,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-06-14T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-15T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -353,14 +353,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-12-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-12-14T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-29T22:45:36+00:00" />
+		<date key="End date" value="2006-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -377,7 +377,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="203139.0" />
-		<date key="Start date" value="2005-01-29T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-30T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -409,7 +409,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -422,7 +422,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -435,14 +435,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-03-29T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-03-30T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-22T22:45:36+00:00" />
+		<date key="End date" value="2007-01-22T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -459,7 +459,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="803607.0" />
-		<date key="Start date" value="2005-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<int key="Diagnosis code" value="106" />
@@ -491,7 +491,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-04-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-04-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -504,7 +504,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-04-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-04-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -517,7 +517,7 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-11-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -530,7 +530,7 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-11-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -543,14 +543,14 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-10-24T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-10-25T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-25T22:45:36+00:00" />
+		<date key="End date" value="2006-01-25T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -567,7 +567,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="238885.0" />
-		<date key="Start date" value="2005-01-25T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-26T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -599,7 +599,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-05-25T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-05-26T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -612,14 +612,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-05-25T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-05-26T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-10T22:45:36+00:00" />
+		<date key="End date" value="2005-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -636,7 +636,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="415367.0" />
-		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -668,7 +668,7 @@
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -681,7 +681,7 @@
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -694,14 +694,14 @@
 			<string key="Producer code" value="SGIC" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-06-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-23T22:45:36+00:00" />
+		<date key="End date" value="2006-01-23T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -718,7 +718,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="261223.0" />
-		<date key="Start date" value="2005-01-23T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-24T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -750,7 +750,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -763,14 +763,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-28T22:45:36+00:00" />
+		<date key="End date" value="2006-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -787,7 +787,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="303470.0" />
-		<date key="Start date" value="2005-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -819,7 +819,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10307" />
-			<date key="time:timestamp" value="2005-07-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-07-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -832,7 +832,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -845,14 +845,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-28T22:45:36+00:00" />
+		<date key="End date" value="2006-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -869,7 +869,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="357226.0" />
-		<date key="Start date" value="2005-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -901,7 +901,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10307" />
-			<date key="time:timestamp" value="2005-07-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-07-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -914,7 +914,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-11-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -927,14 +927,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-11-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-14T22:45:36+00:00" />
+		<date key="End date" value="2005-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -951,7 +951,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="373528.0" />
-		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -983,7 +983,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10307" />
-			<date key="time:timestamp" value="2005-08-10T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-08-11T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -996,7 +996,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-12-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-12-14T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1009,14 +1009,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-12-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-12-14T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-06T22:45:36+00:00" />
+		<date key="End date" value="2006-01-06T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1033,7 +1033,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="303392.0" />
-		<date key="Start date" value="2005-01-06T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-07T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1065,7 +1065,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1078,7 +1078,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1091,7 +1091,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1104,14 +1104,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-09-05T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-09-06T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-14T22:45:36+00:00" />
+		<date key="End date" value="2005-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1128,7 +1128,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="309689.0" />
-		<date key="Start date" value="2005-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1160,7 +1160,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1173,7 +1173,7 @@
 			<string key="Producer code" value="LVPT" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="355111" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1186,7 +1186,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1199,14 +1199,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-10T22:45:36+00:00" />
+		<date key="End date" value="2006-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1223,7 +1223,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="309418.0" />
-		<date key="Start date" value="2005-01-10T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-11T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1255,7 +1255,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1268,7 +1268,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1281,14 +1281,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-14T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-21T22:45:36+00:00" />
+		<date key="End date" value="2005-01-21T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1305,7 +1305,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="314026.0" />
-		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1337,14 +1337,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-05T22:45:36+00:00" />
+		<date key="End date" value="2006-01-05T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1361,7 +1361,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="315074.0" />
-		<date key="Start date" value="2005-01-15T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-16T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1393,7 +1393,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-09-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1406,7 +1406,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1419,14 +1419,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-04-04T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-05T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-28T22:45:36+00:00" />
+		<date key="End date" value="2005-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1443,7 +1443,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="319705.0" />
-		<date key="Start date" value="2005-01-27T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-28T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1475,7 +1475,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="10107" />
-			<date key="time:timestamp" value="2005-09-27T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-28T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1488,7 +1488,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2005-09-27T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-28T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1501,14 +1501,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-09-27T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-09-28T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-10T22:45:36+00:00" />
+		<date key="End date" value="2006-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1525,7 +1525,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="331976.0" />
-		<date key="Start date" value="2005-01-10T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-11T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1557,7 +1557,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-10-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-17T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1570,14 +1570,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-10-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-17T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-07T22:45:36+00:00" />
+		<date key="End date" value="2006-01-07T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1594,7 +1594,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="333845.0" />
-		<date key="Start date" value="2005-01-07T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-08T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1626,7 +1626,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1639,14 +1639,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-19T22:45:36+00:00" />
+		<date key="End date" value="2005-01-19T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1663,7 +1663,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="333855.0" />
-		<date key="Start date" value="2005-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -1695,7 +1695,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1708,14 +1708,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-10-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-10-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2005-01-10T22:45:36+00:00" />
+		<date key="End date" value="2005-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1732,7 +1732,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="347896.0" />
-		<date key="Start date" value="2005-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -1764,7 +1764,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2005-11-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1777,14 +1777,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2005-11-08T23:00:00+00:00" />
+			<date key="time:timestamp" value="2005-11-09T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-31T22:45:36+00:00" />
+		<date key="End date" value="2006-01-31T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1801,7 +1801,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="387461.0" />
-		<date key="Start date" value="2006-01-03T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-04T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -1833,7 +1833,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-01-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-01-04T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -1846,14 +1846,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-01-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-01-04T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-15T22:45:36+00:00" />
+		<date key="End date" value="2006-01-15T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1870,7 +1870,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="418691.0" />
-		<date key="Start date" value="2005-01-15T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-16T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -1902,7 +1902,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-02-15T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-02-16T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -1915,14 +1915,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-02-15T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-02-16T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-22T22:45:36+00:00" />
+		<date key="End date" value="2007-01-22T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -1939,7 +1939,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="844836.0" />
-		<date key="Start date" value="2005-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<int key="Diagnosis code" value="106" />
@@ -1971,7 +1971,7 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-03-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1984,7 +1984,7 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-03-22T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-23T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -1997,7 +1997,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-10-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-10-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2010,7 +2010,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-10-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-10-20T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2023,14 +2023,14 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2007-03-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-22T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-20T22:45:36+00:00" />
+		<date key="End date" value="2007-01-20T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2047,7 +2047,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="795129.0" />
-		<date key="Start date" value="2004-12-31T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-01T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<int key="Diagnosis code" value="106" />
@@ -2079,7 +2079,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-03-26T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-27T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2092,7 +2092,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-03-26T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-27T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2105,7 +2105,7 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-09-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-09-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2118,14 +2118,14 @@
 			<string key="Producer code" value="SRTH" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-09-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-09-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-28T22:45:36+00:00" />
+		<date key="End date" value="2007-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2142,7 +2142,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="445411.0" />
-		<date key="Start date" value="2006-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -2174,7 +2174,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-03-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -2187,14 +2187,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-03-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-03-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-10T22:45:36+00:00" />
+		<date key="End date" value="2006-01-10T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2211,7 +2211,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit cervix" />
 		<float key="Diagnosis Treatment Combination ID" value="453307.0" />
-		<date key="Start date" value="2005-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2243,7 +2243,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-04-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
@@ -2256,14 +2256,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-04-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-04-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit cervix" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-24T22:45:36+00:00" />
+		<date key="End date" value="2006-01-24T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2280,7 +2280,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="469770.0" />
-		<date key="Start date" value="2005-01-24T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-25T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -2312,7 +2312,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-04T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -2325,7 +2325,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-03T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-04T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -2338,14 +2338,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-11-01T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-02T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-09T22:45:36+00:00" />
+		<date key="End date" value="2007-01-09T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2362,7 +2362,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st Ib" />
 		<float key="Diagnosis Treatment Combination ID" value="474058.0" />
-		<date key="Start date" value="2006-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2394,7 +2394,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-05-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2407,14 +2407,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-10T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-17T22:45:36+00:00" />
+		<date key="End date" value="2007-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2431,7 +2431,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligne nieuwvormingen vulva (nno)" />
 		<float key="Diagnosis Treatment Combination ID" value="480414.0" />
-		<date key="Start date" value="2006-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -2463,7 +2463,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2476,14 +2476,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-18T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-21T22:45:36+00:00" />
+		<date key="End date" value="2007-01-21T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2500,7 +2500,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwvormingen ovarium (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="482397.0" />
-		<date key="Start date" value="2006-01-21T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-22T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -2532,7 +2532,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2545,14 +2545,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-21T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-22T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-16T22:45:36+00:00" />
+		<date key="End date" value="2006-01-16T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2569,7 +2569,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="483992.0" />
-		<date key="Start date" value="2005-01-16T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-17T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -2601,7 +2601,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-05-23T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-24T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -2614,14 +2614,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-05-23T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-05-24T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-29T22:45:36+00:00" />
+		<date key="End date" value="2006-01-29T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2638,7 +2638,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="509285.0" />
-		<date key="Start date" value="2005-01-29T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-30T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -2670,7 +2670,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2006-06-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2683,7 +2683,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2696,14 +2696,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-06-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-06-29T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-02T22:45:36+00:00" />
+		<date key="End date" value="2007-01-02T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2720,7 +2720,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Plaveiselcelca, cervix st IIIb" />
 		<float key="Diagnosis Treatment Combination ID" value="511502.0" />
-		<date key="Start date" value="2006-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -2752,7 +2752,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-07-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-03T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2765,14 +2765,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-07-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-03T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-19T22:45:36+00:00" />
+		<date key="End date" value="2006-01-19T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2789,7 +2789,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit vulva" />
 		<float key="Diagnosis Treatment Combination ID" value="522992.0" />
-		<date key="Start date" value="2005-01-12T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-13T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M11" />
@@ -2821,7 +2821,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-07-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
@@ -2834,14 +2834,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-07-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-07-19T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="maligniteit vulva" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-06T22:45:36+00:00" />
+		<date key="End date" value="2007-01-06T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2858,7 +2858,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ia" />
 		<float key="Diagnosis Treatment Combination ID" value="534265.0" />
-		<date key="Start date" value="2006-01-06T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-07T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2890,7 +2890,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-08-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2903,14 +2903,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-06T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-07T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-17T22:45:36+00:00" />
+		<date key="End date" value="2006-01-17T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2927,7 +2927,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit endometrium" />
 		<float key="Diagnosis Treatment Combination ID" value="543050.0" />
-		<date key="Start date" value="2005-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2005-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -2959,7 +2959,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2006-08-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -2972,14 +2972,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-08-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-08-21T01:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-28T22:45:36+00:00" />
+		<date key="End date" value="2007-01-28T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -2996,7 +2996,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st IIIa" />
 		<float key="Diagnosis Treatment Combination ID" value="613278.0" />
-		<date key="Start date" value="2006-01-28T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-29T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3028,7 +3028,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-11-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-29T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3041,14 +3041,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-11-28T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-11-29T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2006-01-20T22:45:36+00:00" />
+		<date key="End date" value="2006-01-20T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3065,7 +3065,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="maligniteit ovarium | tuba" />
 		<float key="Diagnosis Treatment Combination ID" value="627622.0" />
-		<date key="Start date" value="2006-01-19T23:14:24+00:00" />
+		<date key="Start date" value="2006-01-20T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3097,7 +3097,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2006-12-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-20T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3110,14 +3110,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2006-12-19T23:00:00+00:00" />
+			<date key="time:timestamp" value="2006-12-20T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-14T22:45:36+00:00" />
+		<date key="End date" value="2007-01-14T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3134,7 +3134,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Maligne nieuwvormingen darm (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="826874.0" />
-		<date key="Start date" value="2007-01-13T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-14T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3166,14 +3166,14 @@
 			<string key="Producer code" value="OKU1" />
 			<string key="Section" value="Section 3" />
 			<int key="Activity code" value="336930" />
-			<date key="time:timestamp" value="2007-03-13T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-03-14T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-19T22:45:36+00:00" />
+		<date key="End date" value="2007-01-19T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3190,7 +3190,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Recidieven (borderline) mal. ovarium (ov)" />
 		<float key="Diagnosis Treatment Combination ID" value="852793.0" />
-		<date key="Start date" value="2007-01-18T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-19T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3222,7 +3222,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-11-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3235,14 +3235,14 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-11-18T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-11-19T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
 		</event>
 	</trace>
 	<trace>
-		<date key="End date" value="2007-01-04T22:45:36+00:00" />
+		<date key="End date" value="2007-01-04T23:45:36+00:00" />
 		<float key="Treatment code:3" value="nan" />
 		<float key="Age:3" value="nan" />
 		<float key="Treatment code:2" value="nan" />
@@ -3259,7 +3259,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Sereus adenoca: ovarium st IV" />
 		<float key="Diagnosis Treatment Combination ID" value="864960.0" />
-		<date key="Start date" value="2007-01-02T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-03T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M16" />
@@ -3291,7 +3291,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-12-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-03T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3304,7 +3304,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-12-02T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-03T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3328,7 +3328,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ic" />
 		<float key="Diagnosis Treatment Combination ID" value="885289.0" />
-		<date key="Start date" value="2007-01-20T23:14:24+00:00" />
+		<date key="Start date" value="2007-01-21T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3360,7 +3360,7 @@
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3373,7 +3373,7 @@
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370000" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3386,7 +3386,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370401" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3399,7 +3399,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370401C" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3412,7 +3412,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370402" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3425,7 +3425,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370403" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3438,7 +3438,7 @@
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="370407.0" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3451,7 +3451,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370419" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3464,7 +3464,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370423" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3477,7 +3477,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370442" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3490,7 +3490,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370443" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3503,7 +3503,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488E" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3516,7 +3516,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488G" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3529,7 +3529,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370488J" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3542,7 +3542,7 @@
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="370701" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3555,7 +3555,7 @@
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370712B" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3568,7 +3568,7 @@
 			<string key="Producer code" value="HAEM" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="370715A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3581,7 +3581,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="372417" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3594,7 +3594,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<float key="Activity code" value="376400.0" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3607,7 +3607,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="377498A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3620,7 +3620,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378453A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3633,7 +3633,7 @@
 			<string key="Producer code" value="CHE2" />
 			<string key="Section" value="Section 4" />
 			<string key="Activity code" value="378619A" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3646,7 +3646,7 @@
 			<string key="Producer code" value="CRLA" />
 			<string key="Section" value="Section 4" />
 			<int key="Activity code" value="379999" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3659,7 +3659,7 @@
 			<string key="Producer code" value="SRA1" />
 			<string key="Section" value="Section 5" />
 			<int key="Activity code" value="386002" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3672,7 +3672,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3685,7 +3685,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2007-12-20T23:00:00+00:00" />
+			<date key="time:timestamp" value="2007-12-21T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3709,7 +3709,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Metastase cervix prim. maligniteit elders" />
 		<float key="Diagnosis Treatment Combination ID" value="900806.0" />
-		<date key="Start date" value="2008-01-09T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-10T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M13" />
@@ -3741,7 +3741,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="411100" />
-			<date key="time:timestamp" value="2008-01-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-10T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3754,7 +3754,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-01-09T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-10T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3767,7 +3767,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="415100" />
-			<date key="time:timestamp" value="2008-01-16T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-17T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3791,7 +3791,7 @@
 		<float key="Diagnosis:1" value="nan" />
 		<string key="Diagnosis" value="Adenoca: corpus uteri st Ic" />
 		<float key="Diagnosis Treatment Combination ID" value="901594.0" />
-		<date key="Start date" value="2008-01-17T23:14:24+00:00" />
+		<date key="Start date" value="2008-01-18T00:14:24+00:00" />
 		<float key="Diagnosis Treatment Combination ID:3" value="nan" />
 		<float key="Diagnosis Treatment Combination ID:2" value="nan" />
 		<string key="Diagnosis code" value="M14" />
@@ -3823,7 +3823,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="410100" />
-			<date key="time:timestamp" value="2008-01-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-18T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
@@ -3836,7 +3836,7 @@
 			<string key="Producer code" value="SGNA" />
 			<string key="Section" value="Section 2" />
 			<int key="Activity code" value="419100" />
-			<date key="time:timestamp" value="2008-01-17T23:00:00+00:00" />
+			<date key="time:timestamp" value="2008-01-18T00:00:00+00:00" />
 			<string key="lifecycle:transition" value="complete" />
 			<string key="age_group" value="Senior" />
 			<string key="diagnosis_group" value="Other Diagnoses" />
